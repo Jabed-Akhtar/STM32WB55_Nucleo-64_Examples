@@ -1,3 +1,13 @@
+
+*/.settings
+
+# Ignore build artifacts
+**/Debug/
+**/Release/
+
+# STM32CubeIDE related
+.metadata/
+
 # Prerequisites
 *.d
 
