@@ -13,4 +13,6 @@ Useful links:
 
 
 ### STM32F0-Discovery-Board
-<img src="z_docs/Nucleo_WB55RG.png" alt="STM32F0-Discovery-Board" style="width:400px;"/>
+<img src="z_docs/Nucleo_WB55RG.png" alt="STM32F0-Discovery-Board" style="width:400px;"/>  
+
+[Image source: https://www.st.com/en/evaluation-tools/nucleo-wb55rg.html]
